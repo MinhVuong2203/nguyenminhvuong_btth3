@@ -1,16 +1,15 @@
 # nguyenminhvuong_btth3
 
-A new Flutter project.
+<img width="446" height="907" alt="image" src="https://github.com/user-attachments/assets/e540bfd2-b4c4-4c1a-a37e-484b8c8c73ac" />
 
-## Getting Started
+<img width="443" height="909" alt="image" src="https://github.com/user-attachments/assets/c43a5471-4504-4ced-902e-309fd527a56d" />
 
-This project is a starting point for a Flutter application.
+<img width="449" height="920" alt="image" src="https://github.com/user-attachments/assets/bc900d0f-3ef3-4b88-9aa4-a49daad89735" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="447" height="916" alt="image" src="https://github.com/user-attachments/assets/29bc6b68-11d1-4501-8aea-ca92f1efe71c" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="446" height="913" alt="image" src="https://github.com/user-attachments/assets/ca5f90ae-b3a5-426b-860c-7cb8f242d49b" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="447" height="910" alt="image" src="https://github.com/user-attachments/assets/922fdf31-3ff1-433b-99d9-582305799386" />
+
+<img width="458" height="913" alt="image" src="https://github.com/user-attachments/assets/ddac5717-e7ba-4634-8ca8-43cf313d3f51" />
